@@ -1,0 +1,6 @@
+#Archivo de ignorados (archivos que no se subiran y que sourcetree no tendrá en cuenta
+# se pueden poner expresiones
+# *.[oa] (todos los archivos de X tipo)
+# * !nombre_archivo (Excepciones)
+.DS_Store
+License
